@@ -1,1 +1,1 @@
-# Este es mi proyecto en el que he realizado dos formatos de inicio de sesion un vertical y otro horizontal cada uno con sus diferentes estilos.
+# Este es mi proyecto en el que he realizado dos formatos de inicio de sesion un vertical y otro horizontal cada uno con sus diferentes estilos. Para ver los dos estilos solo hay que cambiar en el index.html lo de style1.css por style2.css
